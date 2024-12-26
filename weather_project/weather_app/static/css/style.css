@@ -1,0 +1,76 @@
+/* General body styles
+body {
+    background: linear-gradient(to bottom right, #549ab0, #000406);
+    font-family: 'Arial', sans-serif;
+    color: #c8d02d;
+}
+
+/* Container styling *
+.container {
+    margin-top: 50px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Form input styling *
+.form-control {
+    border-radius: 20px;
+    border: 2px solid #edeff1;
+    color: #333;
+}
+
+button {
+    border-radius: 20px;
+    background-color: #00060c;
+    border: none;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background-color: #010810;
+    color: #cc1414;
+}
+
+/* Card styles for weather info *
+.card {
+    background: rgba(187, 219, 227, 0.9);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #333;
+}
+
+h1 {
+    font-weight: bold;
+    color: #F8F9FA;
+    text-shadow: 1px 1px 2px #000;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.1rem;
+    margin: 5px 0;
+}
+
+
+p {
+    font-size: 1.1rem;
+}
+
+/* Responsive design *
+@media (max-width: 768px) {
+    .form-control {
+        width: 100% !important;
+    }
+
+    button {
+        margin-top: 10px;
+    }
+}
+*/
